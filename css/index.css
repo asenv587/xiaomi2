@@ -15,7 +15,9 @@ body {
   display: block;
   width: 100%;
   height: 120px;
-  overflow: hidden; }
+  overflow: hidden;
+  margin:0 auto;
+}
 
 header {
   background: white; }
