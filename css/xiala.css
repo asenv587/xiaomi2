@@ -241,3 +241,6 @@
 	cursor: pointer;
 	background: pink;
 }
+.banner_menu_content_ul li a{
+	float: left;
+}
